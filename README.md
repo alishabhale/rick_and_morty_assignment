@@ -1,5 +1,4 @@
-# airbnb-online-experiences
+# rick_and_morty_assignmen
 
 
- ![image](https://github.com/alishabhale/airbnb-online-experiences/assets/44771856/16cc16af-abe3-45d9-b547-67a7fadb8edd)
-
+![image](https://github.com/alishabhale/rick_and_morty_assignment/assets/44771856/fba6ccf7-398a-4f1f-9306-b5bcb52938cb)
