@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rick_and_morty_assignment/static/css/main.3c38609f.css",
+    "main.js": "/rick_and_morty_assignment/static/js/main.2b135981.js",
+    "static/media/home-logo.png": "/rick_and_morty_assignment/static/media/home-logo.98014d0818a5dde9da5e.png",
+    "index.html": "/rick_and_morty_assignment/index.html",
+    "main.3c38609f.css.map": "/rick_and_morty_assignment/static/css/main.3c38609f.css.map",
+    "main.2b135981.js.map": "/rick_and_morty_assignment/static/js/main.2b135981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c38609f.css",
+    "static/js/main.2b135981.js"
+  ]
+}
